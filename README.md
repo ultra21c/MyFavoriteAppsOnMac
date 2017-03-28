@@ -50,3 +50,5 @@
 #### Utime ![](https://lh5.googleusercontent.com/tHO0gz81_DtAuIRAZ78rLhs0dQhY0HJfCU1n99gDNy-Q_YJRRHBtar1vFW4T8ka2Hrt4GYZH=s26-h26-e365-rw)
 * Unix timestamp 확인하기
 
+#### 뭐가 변했는지 확인할수 없다.
+* 18:46
