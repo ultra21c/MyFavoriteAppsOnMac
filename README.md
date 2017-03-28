@@ -2,10 +2,13 @@
 * 내 맥에 깔려있어야 하는 앱들.
 
 ## 맥 Applications
-#### Spectacle
-* 페이지 분할 앱
-* [홈페이지](https://www.spectacleapp.com/)
-  ![아이콘](https://pbs.twimg.com/profile_images/697149200040124416/frE-tzOh_bigger.png) 
+#### iTerm
+* 맥용 터미널
+ * zsh
+   * theme : agnoster (셋팅참고 - https://goo.gl/T6HNN4)
+    * Color Presets : Solarized dark
+    * Font : Meslo LG L DZ Regular for Powerline
+     * install : https://github.com/powerline/fonts
 
 #### Alfred
 * 키보드를 이용하여 application 실행. 
@@ -17,6 +20,11 @@
 * 맥에 설치된 App을 삭제
 
 ## 크롬 확장 프로그램
+
+#### Spectacle
+* 페이지 분할 앱
+* [홈페이지](https://www.spectacleapp.com/)
+  ![아이콘](https://pbs.twimg.com/profile_images/697149200040124416/frE-tzOh_bigger.png) 
 
 #### Google 번역
 * 구글 번역 ![](https://lh3.googleusercontent.com/iaysb2R0atkr6DbSAhdN4bStgkYqm3F9rNaCLc3DxKoxvUYTKe4XynKGgiPqtlatTdreiFLMUw=s26-h26-e365-rw)
