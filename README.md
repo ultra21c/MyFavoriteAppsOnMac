@@ -58,13 +58,3 @@ hi... test1
 release v1.0
 
 add hotfix v2.0
-
-add feature version
-
-issue
-
-issue2
-
-issue3
-
-issue4
