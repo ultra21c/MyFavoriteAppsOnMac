@@ -56,3 +56,5 @@
 hi... test1
 
 release v1.0
+
+add hotfix v2.0
