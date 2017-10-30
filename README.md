@@ -62,3 +62,5 @@ add hotfix v2.0
 add feature version
 
 issue
+
+issue2
